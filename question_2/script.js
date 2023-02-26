@@ -86,11 +86,6 @@ class Setup {
 
     console.log(getData);
 
-    const data = [
-      ['John', 'Doe', 'john.doe@example.com', '555-1234'],
-      ['Jane', 'Doe', 'jane.doe@example.com', '555-5678'],
-    ];
-
     await sendToGoogleSheet(SPREADSHEET_ID, SHEET_NAME, getData)
     await this.driver.quit();
   }
