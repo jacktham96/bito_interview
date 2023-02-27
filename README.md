@@ -59,7 +59,7 @@ $ cd question_2
 $ node script.js
 ```
 
-Check the result in Google Sheet -- [Link]('https://docs.google.com/spreadsheets/d/14X8ocEdHrNK2nGH5JY3aP7GbK_v0Wzn-pRycawhNR18/edit#gid=0')  
+Check the result in Google Sheet -- [Link](https://docs.google.com/spreadsheets/d/14X8ocEdHrNK2nGH5JY3aP7GbK_v0Wzn-pRycawhNR18/edit#gid=0)  
 
 
 
